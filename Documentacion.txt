@@ -1,0 +1,20 @@
+Proyecto WordCount 
+
+1. Iniciar el sistema de ficheros distribuidos HDFS de Hadoop.
+
+2. Iniciar el gestor de recursos YARN de Hadoop.
+
+3. Limpiamos el dataset con el Cache Distribuido de Hadoop utilizando un archivo de texto con stop words y signos de puntuación.  
+
+4. Iniciar el gestor de recursos YARN de Hadoop.
+
+5. Agregar el dataset reviews.txt en el HDFS de Hadoop.
+
+6. Ejecutar via Hadoop
+"hadoop jar WordCount.jar WordCount /dataset/reviews.txt /salida_datasets"
+
+7. Copiar el archivo de salida part-r-0000 y agregarlo a la carpeta local.
+
+Enlace Dataset:
+https://www.kaggle.com/bittlingmayer/amazonreviews
+ 

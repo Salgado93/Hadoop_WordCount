@@ -1,0 +1,10 @@
+book	1659696
+one	1133537
+good	1044062
+like	918841
+great	866989
+would	745256
+get	587708
+read	586779
+time	545059
+really	520423
